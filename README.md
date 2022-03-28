@@ -22,4 +22,4 @@ We will be using what we have covered so far such such as FlexBox. We want our e
 
 ### Submitting your work
  - **Commit and push your code often** (for example every half an hour)so you get into the habit and you avoid losing any code that you write if your machine crashes for example. 
- - Once you're ready to submit your for review, do a final push and **create a Pull Request**. 
+ - Once you're ready to submit your design for review, do a final push and **create a Pull Request**. 
