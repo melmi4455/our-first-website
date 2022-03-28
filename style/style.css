@@ -1,0 +1,165 @@
+
+
+
+.Top{
+    display: flex;
+    align-items: cente;
+    justify-content: space-around;
+    background-color: whitesmoke;
+
+
+   
+}
+
+.Logo{
+    height: 60px;
+}
+
+
+
+.Main-List{
+    display: flex;
+    gap: 20px;
+    padding: 10px 10px;
+    font-size: 20px;
+   
+
+    
+}
+.Main-List li:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.Main-List li{
+    list-style-type: none;
+    transition: 4ms;
+}
+.btn{
+    border-radius: 15%;
+    border: none;
+    padding: 10px 10px;
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+
+}
+.btn:hover {
+    cursor: pointer;
+    color: black;
+}
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 200px;
+    
+    
+}
+
+.main-div { 
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+
+.img{
+    width: 50%;
+
+        
+    
+}
+
+
+.tv-image{
+    width: 80%;
+}
+
+.TV{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+   .Mini{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       width: 50%;
+       padding: 30px 70px;
+       background-color: whitesmoke;
+       margin-bottom: 10%;
+       
+   }
+
+   
+.head{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.pics{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+} 
+
+}
+
+   }
+
+   .Samsung-img{
+       width: 100%;
+   }
+   
+
+   .width{
+       width: 20%;
+       background-color: whitesmoke;
+       border-style:solid;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       padding-right: 1px;
+
+   }
+   p{ font-size: 25px;}
+
+   .Footer-flex{
+       display: flex;
+       justify-content: space-between;
+       gap: 30%;
+       margin-top: 10%;
+       padding-left: 10%;
+       padding-right: 10%;
+       align-items: center;
+
+   }
+
+
+
+   .Main-List2{
+       display: flex;
+       flex-direction: column;
+       font-size: 25px;
+       list-style-type: none;
+       gap: 7px;
+   }
+   
+
+   .copyright{
+       display: flex;
+       justify-content: center;
+       background-color: whitesmoke;
+       font-size: 18px;
+   }
+       
+       
+
+
+
+   }
+   
